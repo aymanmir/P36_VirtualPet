@@ -1,2 +1,2 @@
-# P36_VirtualPet
+# Virtual Pet
 ### OUTPUT:
